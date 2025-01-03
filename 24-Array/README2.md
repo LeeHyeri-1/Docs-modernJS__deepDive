@@ -223,7 +223,9 @@
 
 <br />
 
-### Array.prototype.splice 메서드
+### Array.prototype.splice 메서드 
+
+: 배열 수정됨
 
 - 원본 배열의 `중간에 요소를 추가`하거나 `중간에 있는 요소를 제거`하는 경우 사용
 - 3개의 매개변수를 가진다.
@@ -261,6 +263,8 @@
 <br />
 
 ### Array.prototype.slice 메서드
+
+: 배열 수정 안됨
 
 - 인수로 전달된 `범위의 요소들을 복사하여 배열로 반환`
 - `accessor method`
